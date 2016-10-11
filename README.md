@@ -1,3 +1,4 @@
+![got root?](./gotroot.png)
 ## Filesystems                                                                        [20 marks]
 1. What is NFS? Do Redbrick use it? If so, where? If not, why not?                           [3]
 2. What is the FHS? Name 3 Directories found under the primary hierarchy.                    [2]
